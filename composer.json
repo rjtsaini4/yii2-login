@@ -1,0 +1,25 @@
+{
+    "name": "tbi/yii2-login",
+    "description": "Register ,role,country,city,state modelgeneration",
+    "type": "yii2-extension",
+    "keywords": ["Yii2","extension","registered","users"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "brstdev35",
+            "email": "brstdev35@gmail.com"
+        }
+    ],
+	"support": {
+        "source": "https://github.com/brstdev35/TBI.git"
+    },
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "minimum-stability" : "dev",
+    "autoload": {
+        "psr-4": {
+            "TBI\\Login\\": "src/"
+        }
+    }
+}
