@@ -1,6 +1,7 @@
 {
-    "name": "rjtsaini4/yii2-login",
-    "description": "Register ,role,country,city,state modelgeneration",
+
+    "name": "tbi/yii2-login",
+    "description": "Register ,role,country,city,state modelgeneration by Rajat",
     "type": "yii2-extension",
     "keywords": ["Yii2","extension","registered","users"],
     "license": "MIT",
